@@ -42,7 +42,7 @@ def draw():
     
     # find x-position
     x_diff = random(spacing_min,spacing_min+spacing_randomness)
-    x_diff = 200
+    x_diff = 40
     x_init += x_diff
     translate(x_init,0)
     
