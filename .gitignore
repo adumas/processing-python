@@ -1,0 +1,11 @@
+examples/
+libraries/
+modes/
+tools/
+templates/
+
+# leave out images and movies and "frame" folders
+*.mov
+*.m4v
+*.png
+frame/
